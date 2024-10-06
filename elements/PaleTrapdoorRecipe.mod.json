@@ -1,0 +1,48 @@
+{
+  "_fv": 66,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 2,
+    "group": "wooden_trapdoors",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "REDSTONE",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PalePlanks"
+      },
+      {
+        "value": "CUSTOM:PalePlanks"
+      },
+      {
+        "value": "CUSTOM:PalePlanks"
+      },
+      {
+        "value": "CUSTOM:PalePlanks"
+      },
+      {
+        "value": "CUSTOM:PalePlanks"
+      },
+      {
+        "value": "CUSTOM:PalePlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PaleTrapdoor"
+    },
+    "name": "pale_trapdoor",
+    "namespace": "mod"
+  }
+}

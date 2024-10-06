@@ -1,0 +1,48 @@
+{
+  "_fv": 66,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 3,
+    "group": "wood",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "BUILDING",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PaleLogs"
+      },
+      {
+        "value": "CUSTOM:PaleLogs"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PaleLogs"
+      },
+      {
+        "value": "CUSTOM:PaleLogs"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PaleWood"
+    },
+    "name": "pale_wood",
+    "namespace": "mod"
+  }
+}

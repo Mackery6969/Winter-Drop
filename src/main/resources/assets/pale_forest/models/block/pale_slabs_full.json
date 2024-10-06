@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "pale_forest:block/oak_planks",
+    "bottom": "pale_forest:block/oak_planks",
+    "top": "pale_forest:block/oak_planks",
+    "side": "pale_forest:block/oak_planks"
+  },
+  "render_type": "solid"
+}

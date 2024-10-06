@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "pale_forest:pale_dirt",
+    "pale_forest:pale_grass",
+    "minecraft:stone",
+    "minecraft:granite",
+    "minecraft:diorite",
+    "minecraft:andesite",
+    "minecraft:deepslate"
+  ]
+}

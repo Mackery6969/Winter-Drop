@@ -1,0 +1,164 @@
+{
+  "creaking_idle": {
+    "subtitle": "subtitles.creaking_idle",
+    "sounds": [
+      {
+        "name": "pale_forest:creaking_idle1",
+        "stream": false
+      },
+      {
+        "name": "pale_forest:creaking_idle2",
+        "stream": false
+      },
+      {
+        "name": "pale_forest:creaking_idle3",
+        "stream": false
+      },
+      {
+        "name": "pale_forest:creaking_idle4",
+        "stream": false
+      },
+      {
+        "name": "pale_forest:creaking_idle5",
+        "stream": false
+      },
+      {
+        "name": "pale_forest:creaking_idle6",
+        "stream": false
+      }
+    ]
+  },
+  "creaking_step": {
+    "subtitle": "subtitles.creaking_step",
+    "sounds": [
+      {
+        "name": "pale_forest:creaking_step1",
+        "stream": false
+      },
+      {
+        "name": "pale_forest:creaking_step2",
+        "stream": false
+      },
+      {
+        "name": "pale_forest:creaking_step3",
+        "stream": false
+      },
+      {
+        "name": "pale_forest:creaking_step4",
+        "stream": false
+      },
+      {
+        "name": "pale_forest:creaking_step5",
+        "stream": false
+      }
+    ]
+  },
+  "creaking_attack": {
+    "subtitle": "subtitles.creaking_attack",
+    "sounds": [
+      {
+        "name": "pale_forest:creaking_attack",
+        "stream": false
+      },
+      {
+        "name": "pale_forest:creaking_attack1",
+        "stream": false
+      },
+      {
+        "name": "pale_forest:creaking_attack2",
+        "stream": false
+      },
+      {
+        "name": "pale_forest:creaking_attack3",
+        "stream": false
+      },
+      {
+        "name": "pale_forest:creaking_attack4",
+        "stream": false
+      }
+    ]
+  },
+  "creaking_activate": {
+    "subtitle": "subtitles.creaking_activate",
+    "sounds": [
+      {
+        "name": "pale_forest:creaking_activate",
+        "stream": false
+      }
+    ]
+  },
+  "creaking_death": {
+    "subtitle": "subtitles.creaking_death",
+    "sounds": [
+      {
+        "name": "pale_forest:creaking_death",
+        "stream": false
+      }
+    ]
+  },
+  "creaking_hurt": {
+    "subtitle": "subtitles.creaking_hurt",
+    "sounds": [
+      {
+        "name": "pale_forest:creaking_sway",
+        "stream": false
+      }
+    ]
+  },
+  "creaking_freeze": {
+    "subtitle": "subtitles.creaking_freeze",
+    "sounds": [
+      {
+        "name": "pale_forest:creaking_freeze1",
+        "stream": false
+      },
+      {
+        "name": "pale_forest:creaking_freeze2",
+        "stream": false
+      },
+      {
+        "name": "pale_forest:creaking_freeze3",
+        "stream": false
+      },
+      {
+        "name": "pale_forest:creaking_freeze4",
+        "stream": false
+      }
+    ]
+  },
+  "creaking_unfreeze": {
+    "subtitle": "subtitles.creaking_unfreeze",
+    "sounds": [
+      {
+        "name": "pale_forest:creaking_unfreeze1",
+        "stream": false
+      },
+      {
+        "name": "pale_forest:creaking_unfreeze2",
+        "stream": false
+      },
+      {
+        "name": "pale_forest:creaking_unfreeze3",
+        "stream": false
+      }
+    ]
+  },
+  "creaking_spawn": {
+    "subtitle": "subtitles.creaking_spawn",
+    "sounds": [
+      {
+        "name": "pale_forest:creaking_spawn",
+        "stream": false
+      }
+    ]
+  },
+  "creaking_deactivate": {
+    "subtitle": "subtitles.creaking_deactivate",
+    "sounds": [
+      {
+        "name": "pale_forest:creaking_deactivate",
+        "stream": false
+      }
+    ]
+  }
+}

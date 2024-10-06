@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "pale_forest:block/stripped_pale_logs",
+    "up": "pale_forest:block/stripped_pale_logs",
+    "north": "pale_forest:block/stripped_pale_logs",
+    "east": "pale_forest:block/stripped_pale_logs",
+    "south": "pale_forest:block/stripped_pale_logs",
+    "west": "pale_forest:block/stripped_pale_logs",
+    "particle": "pale_forest:block/stripped_pale_logs"
+  },
+  "render_type": "solid"
+}

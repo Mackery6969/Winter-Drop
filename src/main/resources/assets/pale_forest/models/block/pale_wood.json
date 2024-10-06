@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "pale_forest:block/oak_log",
+    "up": "pale_forest:block/oak_log",
+    "north": "pale_forest:block/oak_log",
+    "east": "pale_forest:block/oak_log",
+    "south": "pale_forest:block/oak_log",
+    "west": "pale_forest:block/oak_log",
+    "particle": "pale_forest:block/oak_log"
+  },
+  "render_type": "solid"
+}

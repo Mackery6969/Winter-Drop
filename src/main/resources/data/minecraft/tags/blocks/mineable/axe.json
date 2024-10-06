@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "pale_forest:stripped_pale_logs",
+    "pale_forest:pale_wood",
+    "pale_forest:stripped_pale_wood",
+    "pale_forest:pale_door",
+    "pale_forest:pale_trapdoor",
+    "pale_forest:pale_pressure_plate",
+    "pale_forest:pale_button",
+    "pale_forest:pale_slabs",
+    "pale_forest:pale_fence_gate",
+    "pale_forest:pale_stairs",
+    "pale_forest:creaking_heart_active",
+    "pale_forest:creaking_heart",
+    "pale_forest:pale_fence",
+    "pale_forest:pale_planks",
+    "pale_forest:pale_logs"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "pale_forest:block/dirt",
+    "up": "pale_forest:block/dirt",
+    "north": "pale_forest:block/dirt",
+    "east": "pale_forest:block/dirt",
+    "south": "pale_forest:block/dirt",
+    "west": "pale_forest:block/dirt",
+    "particle": "pale_forest:block/dirt"
+  },
+  "render_type": "solid"
+}

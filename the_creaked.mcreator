@@ -1,0 +1,1105 @@
+{
+  "mod_elements": [
+    {
+      "name": "PaleLogs",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pale_logs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/pale_forest/models/item/pale_logs.json",
+          "src/main/resources/data/pale_forest/loot_tables/blocks/pale_logs.json",
+          "src/main/resources/assets/pale_forest/blockstates/pale_logs.json",
+          "src/main/resources/assets/pale_forest/models/block/pale_logs.json",
+          "src/main/java/net/mackery/paleforest/block/PaleLogsBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "PaleDirt",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pale_dirt",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/pale_forest/loot_tables/blocks/pale_dirt.json",
+          "src/main/resources/assets/pale_forest/models/block/pale_dirt.json",
+          "src/main/resources/assets/pale_forest/models/item/pale_dirt.json",
+          "src/main/java/net/mackery/paleforest/block/PaleDirtBlock.java",
+          "src/main/resources/assets/pale_forest/blockstates/pale_dirt.json"
+        ]
+      }
+    },
+    {
+      "name": "PalePlanks",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pale_planks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/pale_forest/loot_tables/blocks/pale_planks.json",
+          "src/main/resources/assets/pale_forest/models/item/pale_planks.json",
+          "src/main/java/net/mackery/paleforest/block/PalePlanksBlock.java",
+          "src/main/resources/assets/pale_forest/models/block/pale_planks.json",
+          "src/main/resources/assets/pale_forest/blockstates/pale_planks.json"
+        ]
+      }
+    },
+    {
+      "name": "PaleGrass",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pale_grass",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/pale_forest/models/item/pale_grass.json",
+          "src/main/resources/assets/pale_forest/models/block/pale_grass.json",
+          "src/main/java/net/mackery/paleforest/block/PaleGrassBlock.java",
+          "src/main/resources/data/pale_forest/loot_tables/blocks/pale_grass.json",
+          "src/main/resources/assets/pale_forest/blockstates/pale_grass.json"
+        ]
+      }
+    },
+    {
+      "name": "PaleFence",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pale_fence",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mackery/paleforest/block/PaleFenceBlock.java",
+          "src/main/resources/assets/pale_forest/models/block/pale_fence_inventory.json",
+          "src/main/resources/assets/pale_forest/blockstates/pale_fence.json",
+          "src/main/resources/assets/pale_forest/models/block/pale_fence.json",
+          "src/main/resources/assets/pale_forest/models/item/pale_fence.json",
+          "src/main/resources/data/pale_forest/loot_tables/blocks/pale_fence.json",
+          "src/main/resources/assets/pale_forest/models/block/pale_fence_post.json"
+        ]
+      }
+    },
+    {
+      "name": "CreakingHeart",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "creaking_heart",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/pale_forest/blockstates/creaking_heart.json",
+          "src/main/java/net/mackery/paleforest/block/CreakingHeartBlock.java",
+          "src/main/resources/assets/pale_forest/models/item/creaking_heart.json",
+          "src/main/resources/assets/pale_forest/models/block/creaking_heart.json"
+        ]
+      }
+    },
+    {
+      "name": "PaleSand",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pale_sand",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/pale_forest/blockstates/pale_sand.json",
+          "src/main/resources/data/pale_forest/loot_tables/blocks/pale_sand.json",
+          "src/main/resources/assets/pale_forest/models/item/pale_sand.json",
+          "src/main/resources/assets/pale_forest/models/block/pale_sand.json",
+          "src/main/java/net/mackery/paleforest/block/PaleSandBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "PaleLogsToPlanks",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pale_logs_to_planks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipes/pale_planks.json"
+        ]
+      }
+    },
+    {
+      "name": "PaleSapling",
+      "type": "plant",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pale_sapling",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mackery/paleforest/block/PaleSaplingBlock.java",
+          "src/main/resources/assets/pale_forest/models/item/pale_sapling.json",
+          "src/main/resources/data/pale_forest/loot_tables/blocks/pale_sapling.json",
+          "src/main/resources/assets/pale_forest/blockstates/pale_sapling.json",
+          "src/main/resources/assets/pale_forest/models/block/pale_sapling.json"
+        ]
+      }
+    },
+    {
+      "name": "PaleTree",
+      "type": "feature",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pale_tree",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/pale_forest/worldgen/placed_feature/pale_tree.json",
+          "src/main/resources/data/pale_forest/forge/biome_modifier/pale_tree_biome_modifier.json",
+          "src/main/resources/data/pale_forest/worldgen/configured_feature/pale_tree.json"
+        ]
+      }
+    },
+    {
+      "name": "PaleGarden",
+      "type": "biome",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pale_garden",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/pale_forest/worldgen/biome/pale_garden.json"
+        ]
+      }
+    },
+    {
+      "name": "PaleTree2",
+      "type": "feature",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pale_tree_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/pale_forest/forge/biome_modifier/pale_tree_2_biome_modifier.json",
+          "src/main/resources/data/pale_forest/worldgen/configured_feature/pale_tree_2.json",
+          "src/main/resources/data/pale_forest/worldgen/placed_feature/pale_tree_2.json"
+        ]
+      }
+    },
+    {
+      "name": "PaleSaplingOnTickUpdate",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pale_sapling_on_tick_update",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mackery/paleforest/procedures/PaleSaplingOnTickUpdateProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PaleSaplingPlantRightClicked",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pale_sapling_plant_right_clicked",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mackery/paleforest/procedures/PaleSaplingPlantRightClickedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CreakingHeartActive",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "creaking_heart_active",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/pale_forest/models/block/creaking_heart_active.json",
+          "src/main/java/net/mackery/paleforest/block/CreakingHeartActiveBlock.java",
+          "src/main/resources/data/pale_forest/worldgen/configured_feature/creaking_heart_active.json",
+          "src/main/resources/data/pale_forest/forge/biome_modifier/creaking_heart_active_biome_modifier.json",
+          "src/main/resources/data/pale_forest/worldgen/placed_feature/creaking_heart_active.json",
+          "src/main/resources/assets/pale_forest/models/item/creaking_heart_active.json",
+          "src/main/resources/assets/pale_forest/blockstates/creaking_heart_active.json"
+        ]
+      }
+    },
+    {
+      "name": "CreakingHeartCheck",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "creaking_heart_check",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mackery/paleforest/procedures/CreakingHeartCheckProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CreakingMovementCheck",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "creaking_movement_check",
+      "metadata": {
+        "return_type": "logic",
+        "files": [
+          "src/main/java/net/mcreator/thecreaked/procedures/CreakingMovementCheckProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CreakingNaturalEntitySpawningCondition",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "creaking_natural_entity_spawning_condition",
+      "metadata": {
+        "return_type": "logic",
+        "files": [
+          "src/main/java/net/mackery/paleforest/procedures/CreakingNaturalEntitySpawningConditionProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Creaking",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "creaking",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/pale_forest/forge/biome_modifier/creaking_biome_modifier.json",
+          "src/main/java/net/mackery/paleforest/entity/CreakingEntity.java",
+          "src/main/java/net/mackery/paleforest/client/renderer/CreakingRenderer.java",
+          "src/main/resources/assets/pale_forest/models/item/creaking_spawn_egg.json"
+        ]
+      }
+    },
+    {
+      "name": "CreakingHeartDrop",
+      "type": "loottable",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "creaking_heart_drop",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/pale_forest/loot_tables/blocks/creaking_heart.json"
+        ]
+      }
+    },
+    {
+      "name": "CreakingHeartActiveDrop",
+      "type": "loottable",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "creaking_heart_active_drop",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/pale_forest/loot_tables/blocks/creaking_heart_active.json"
+        ]
+      }
+    },
+    {
+      "name": "PalePlankStairs",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pale_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/pale_forest/models/item/pale_stairs.json",
+          "src/main/resources/assets/pale_forest/models/block/pale_stairs_inner.json",
+          "src/main/resources/assets/pale_forest/blockstates/pale_stairs.json",
+          "src/main/resources/assets/pale_forest/models/block/pale_stairs.json",
+          "src/main/resources/assets/pale_forest/models/block/pale_stairs_outer.json",
+          "src/main/java/net/mackery/paleforest/block/PalePlankStairsBlock.java",
+          "src/main/resources/data/pale_forest/loot_tables/blocks/pale_stairs.json"
+        ]
+      }
+    },
+    {
+      "name": "PaleFenceGate",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pale_fence_gate",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/pale_forest/models/block/pale_fence_gate_wall_open.json",
+          "src/main/java/net/mackery/paleforest/block/PaleFenceGateBlock.java",
+          "src/main/resources/assets/pale_forest/models/block/pale_fence_gate_open.json",
+          "src/main/resources/data/pale_forest/loot_tables/blocks/pale_fence_gate.json",
+          "src/main/resources/assets/pale_forest/blockstates/pale_fence_gate.json",
+          "src/main/resources/assets/pale_forest/models/block/pale_fence_gate_wall.json",
+          "src/main/resources/assets/pale_forest/models/item/pale_fence_gate.json",
+          "src/main/resources/assets/pale_forest/models/block/pale_fence_gate.json"
+        ]
+      }
+    },
+    {
+      "name": "PaleSlabs",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pale_slabs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/pale_forest/blockstates/pale_slabs.json",
+          "src/main/resources/assets/pale_forest/models/block/pale_slabs.json",
+          "src/main/resources/assets/pale_forest/models/item/pale_slabs.json",
+          "src/main/java/net/mackery/paleforest/block/PaleSlabsBlock.java",
+          "src/main/resources/data/pale_forest/loot_tables/blocks/pale_slabs.json",
+          "src/main/resources/assets/pale_forest/models/block/pale_slabs_full.json",
+          "src/main/resources/assets/pale_forest/models/block/pale_slabs_top.json"
+        ]
+      }
+    },
+    {
+      "name": "PaleButton",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pale_button",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/pale_forest/models/block/pale_button.json",
+          "src/main/resources/data/pale_forest/loot_tables/blocks/pale_button.json",
+          "src/main/resources/assets/pale_forest/models/block/pale_button_pressed.json",
+          "src/main/resources/assets/pale_forest/models/block/pale_button_inventory.json",
+          "src/main/resources/assets/pale_forest/models/item/pale_button.json",
+          "src/main/java/net/mackery/paleforest/block/PaleButtonBlock.java",
+          "src/main/resources/assets/pale_forest/blockstates/pale_button.json"
+        ]
+      }
+    },
+    {
+      "name": "PalePressurePlate",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pale_pressure_plate",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mackery/paleforest/block/PalePressurePlateBlock.java",
+          "src/main/resources/assets/pale_forest/blockstates/pale_pressure_plate.json",
+          "src/main/resources/assets/pale_forest/models/block/pale_pressure_plate.json",
+          "src/main/resources/assets/pale_forest/models/block/pale_pressure_plate_down.json",
+          "src/main/resources/data/pale_forest/loot_tables/blocks/pale_pressure_plate.json",
+          "src/main/resources/assets/pale_forest/models/item/pale_pressure_plate.json"
+        ]
+      }
+    },
+    {
+      "name": "PaleMossBlock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pale_moss_block",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mackery/paleforest/block/PaleMossBlockBlock.java",
+          "src/main/resources/assets/pale_forest/models/block/pale_moss_block.json",
+          "src/main/resources/data/pale_forest/loot_tables/blocks/pale_moss_block.json",
+          "src/main/resources/assets/pale_forest/models/item/pale_moss_block.json",
+          "src/main/resources/assets/pale_forest/blockstates/pale_moss_block.json"
+        ]
+      }
+    },
+    {
+      "name": "PaleTrapdoor",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pale_trapdoor",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/pale_forest/loot_tables/blocks/pale_trapdoor.json",
+          "src/main/resources/assets/pale_forest/models/block/pale_trapdoor.json",
+          "src/main/resources/assets/pale_forest/models/block/pale_trapdoor_top.json",
+          "src/main/java/net/mackery/paleforest/block/PaleTrapdoorBlock.java",
+          "src/main/resources/assets/pale_forest/models/item/pale_trapdoor.json",
+          "src/main/resources/assets/pale_forest/blockstates/pale_trapdoor.json",
+          "src/main/resources/assets/pale_forest/models/block/pale_trapdoor_open.json"
+        ]
+      }
+    },
+    {
+      "name": "PaleMossCarpet",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pale_moss_carpet",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/pale_forest/loot_tables/blocks/pale_moss_carpet.json",
+          "src/main/java/net/mackery/paleforest/block/PaleMossCarpetBlock.java",
+          "src/main/resources/assets/pale_forest/models/block/pale_moss_carpet.json",
+          "src/main/resources/assets/pale_forest/blockstates/pale_moss_carpet.json",
+          "src/main/resources/assets/pale_forest/models/item/pale_moss_carpet.json"
+        ]
+      }
+    },
+    {
+      "name": "CreakingOnEntityTickUpdate",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "creaking_on_entity_tick_update",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mackery/paleforest/procedures/CreakingOnEntityTickUpdateProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CreakingEntityIsHurt",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "creaking_entity_is_hurt",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mackery/paleforest/procedures/CreakingEntityIsHurtProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PaleMossPatch",
+      "type": "feature",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pale_moss_patch",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/pale_forest/worldgen/configured_feature/pale_moss_patch.json",
+          "src/main/resources/data/pale_forest/forge/biome_modifier/pale_moss_patch_biome_modifier.json",
+          "src/main/resources/data/pale_forest/worldgen/placed_feature/pale_moss_patch.json"
+        ]
+      }
+    },
+    {
+      "name": "CreakingEnderman",
+      "type": "gamerule",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "creaking_enderman",
+      "metadata": {
+        "files": [],
+        "type": "logic"
+      }
+    },
+    {
+      "name": "CreakedAttacking",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "creaked_attacking",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mackery/paleforest/procedures/CreakedAttackingProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "sourceentity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PaleLeaves",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pale_leaves",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/pale_forest/models/item/pale_leaves.json",
+          "src/main/resources/assets/pale_forest/blockstates/pale_leaves.json",
+          "src/main/java/net/mackery/paleforest/block/PaleLeavesBlock.java",
+          "src/main/resources/assets/pale_forest/models/block/pale_leaves.json",
+          "src/main/resources/data/pale_forest/loot_tables/blocks/pale_leaves.json"
+        ]
+      }
+    },
+    {
+      "name": "PaleGrassCrop",
+      "type": "plant",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pale_grass_crop",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/pale_forest/models/item/pale_grass_crop.json",
+          "src/main/resources/data/pale_forest/worldgen/placed_feature/pale_grass_crop.json",
+          "src/main/resources/data/pale_forest/forge/biome_modifier/pale_grass_crop_biome_modifier.json",
+          "src/main/resources/data/pale_forest/worldgen/configured_feature/pale_grass_crop.json",
+          "src/main/resources/assets/pale_forest/models/block/pale_grass_crop.json",
+          "src/main/resources/assets/pale_forest/blockstates/pale_grass_crop.json",
+          "src/main/java/net/mackery/paleforest/block/PaleGrassCropBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "PaleVineBlockValidPlacementCondition",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pale_vine_block_valid_placement_condition",
+      "metadata": {
+        "return_type": "logic",
+        "files": [
+          "src/main/java/net/mackery/paleforest/procedures/PaleVineBlockValidPlacementConditionProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PaleVine",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pale_vine",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/pale_forest/loot_tables/blocks/pale_vine.json",
+          "src/main/resources/assets/pale_forest/blockstates/pale_vine.json",
+          "src/main/resources/assets/pale_forest/models/block/pale_vine.json",
+          "src/main/resources/assets/pale_forest/models/item/pale_vine.json",
+          "src/main/java/net/mackery/paleforest/block/PaleVineBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "PaleVineBottom",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pale_vine_bottom",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/pale_forest/loot_tables/blocks/pale_vine_bottom.json",
+          "src/main/resources/assets/pale_forest/models/block/pale_vine_bottom.json",
+          "src/main/resources/assets/pale_forest/blockstates/pale_vine_bottom.json",
+          "src/main/java/net/mackery/paleforest/block/PaleVineBottomBlock.java",
+          "src/main/resources/assets/pale_forest/models/item/pale_vine_bottom.json"
+        ]
+      }
+    },
+    {
+      "name": "PaleVineBlockBottomCheck",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pale_vine_block_bottom_check",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mackery/paleforest/procedures/PaleVineBlockBottomCheckProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PaleDoor",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pale_door",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/pale_forest/models/block/pale_door_top_right.json",
+          "src/main/java/net/mackery/paleforest/block/PaleDoorBlock.java",
+          "src/main/resources/assets/pale_forest/blockstates/pale_door.json",
+          "src/main/resources/assets/pale_forest/models/item/pale_door.json",
+          "src/main/resources/assets/pale_forest/models/block/pale_door_top_left_open.json",
+          "src/main/resources/assets/pale_forest/models/block/pale_door_top_right_open.json",
+          "src/main/resources/assets/pale_forest/models/block/pale_door_bottom_left.json",
+          "src/main/resources/assets/pale_forest/models/block/pale_door_top_left.json",
+          "src/main/resources/assets/pale_forest/models/block/pale_door_bottom_left_open.json",
+          "src/main/resources/data/pale_forest/loot_tables/blocks/pale_door.json",
+          "src/main/resources/assets/pale_forest/models/block/pale_door_bottom_right.json",
+          "src/main/resources/assets/pale_forest/models/block/pale_door_bottom_right_open.json"
+        ]
+      }
+    },
+    {
+      "name": "PaleStairsRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pale_stairs_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/pale_forest/recipes/pale_stairs.json"
+        ]
+      }
+    },
+    {
+      "name": "PaleSlabRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pale_slab_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/pale_forest/recipes/pale_slab.json"
+        ]
+      }
+    },
+    {
+      "name": "PaleTrapdoorRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pale_trapdoor_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/pale_forest/recipes/pale_trapdoor.json"
+        ]
+      }
+    },
+    {
+      "name": "PaleDoorRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pale_door_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/pale_forest/recipes/pale_door.json"
+        ]
+      }
+    },
+    {
+      "name": "PalePressurePlateRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pale_pressure_plate_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/pale_forest/recipes/pale_pressure_plate.json"
+        ]
+      }
+    },
+    {
+      "name": "PaleButtonRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pale_button_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/pale_forest/recipes/pale_button.json"
+        ]
+      }
+    },
+    {
+      "name": "PaleFenceRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pale_fence_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/pale_forest/recipes/pale_fence.json"
+        ]
+      }
+    },
+    {
+      "name": "PaleFenceGateRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pale_fence_gate_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/pale_forest/recipes/pale_fence_gate.json"
+        ]
+      }
+    },
+    {
+      "name": "RecipeHandler",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_handler",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mackery/paleforest/procedures/RecipeHandlerProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {
+    "BLOCKS:minecraft:mineable/hoe": [
+      "~CUSTOM:PaleVineBottom",
+      "~CUSTOM:PaleVine",
+      "~CUSTOM:PaleLeaves",
+      "CUSTOM:PaleGrassCrop"
+    ],
+    "BLOCKS:minecraft:wooden_fences": [
+      "CUSTOM:PaleFence"
+    ],
+    "BLOCKS:minecraft:prevent_mob_spawning_inside": [
+      "CUSTOM:PaleVine",
+      "CUSTOM:PaleVineBottom"
+    ],
+    "BIOMES:minecraft:is_overworld": [
+      "CUSTOM:PaleGarden"
+    ],
+    "BLOCKS:minecraft:logs": [
+      "CUSTOM:PaleLogs",
+      "CUSTOM:CreakingHeart",
+      "CUSTOM:CreakingHeartActive"
+    ],
+    "BLOCKS:mod:patch_replacable": [
+      "CUSTOM:PaleDirt",
+      "CUSTOM:PaleGrass",
+      "Blocks.STONE#0",
+      "Blocks.STONE#1",
+      "Blocks.STONE#3",
+      "Blocks.STONE#5",
+      "Blocks.DEEPSLATE"
+    ],
+    "BLOCKS:minecraft:leaves": [
+      "CUSTOM:PaleLeaves"
+    ],
+    "BLOCKS:minecraft:dirt": [
+      "CUSTOM:PaleDirt",
+      "CUSTOM:PaleGrass"
+    ],
+    "BLOCKS:minecraft:mineable/axe": [
+      "~CUSTOM:PaleDoor",
+      "~CUSTOM:PaleTrapdoor",
+      "~CUSTOM:PalePressurePlate",
+      "~CUSTOM:PaleButton",
+      "~CUSTOM:PaleSlabs",
+      "~CUSTOM:PaleFenceGate",
+      "~CUSTOM:PalePlankStairs",
+      "~CUSTOM:CreakingHeartActive",
+      "~CUSTOM:CreakingHeart",
+      "~CUSTOM:PaleFence",
+      "~CUSTOM:PalePlanks",
+      "~CUSTOM:PaleLogs"
+    ],
+    "BLOCKS:minecraft:slabs": [
+      "~CUSTOM:PaleSlabs"
+    ],
+    "BLOCKS:forge:vines": [
+      "Blocks.VINE",
+      "Blocks.WEEPING_VINES",
+      "Blocks.WEEPING_VINES_PLANT",
+      "Blocks.TWISTING_VINES",
+      "Blocks.TWISTING_VINES_PLANT",
+      "Blocks.CAVE_VINES",
+      "Blocks.CAVE_VINES_PLANT",
+      "CUSTOM:PaleVine",
+      "CUSTOM:PaleVineBottom"
+    ],
+    "BLOCKS:minecraft:fences": [
+      "~CUSTOM:PaleFence",
+      "CUSTOM:PaleFenceGate"
+    ],
+    "BLOCKS:minecraft:climbable": [
+      "CUSTOM:PaleVine",
+      "CUSTOM:PaleVineBottom"
+    ],
+    "BLOCKS:minecraft:mineable/shovel": [
+      "~CUSTOM:PaleMossCarpet",
+      "~CUSTOM:PaleMossBlock",
+      "~CUSTOM:PaleSand",
+      "~CUSTOM:PaleGrass",
+      "~CUSTOM:PaleDirt"
+    ],
+    "BLOCKS:minecraft:stairs": [
+      "~CUSTOM:PalePlankStairs"
+    ],
+    "BLOCKS:minecraft:wither_immune": [
+      "CUSTOM:PaleLogs",
+      "CUSTOM:PaleDirt",
+      "CUSTOM:PalePlanks",
+      "CUSTOM:PaleGrass",
+      "CUSTOM:PaleFence"
+    ],
+    "BLOCKS:minecraft:mineable/shears": [
+      "CUSTOM:PaleLeaves",
+      "CUSTOM:PaleGrassCrop",
+      "CUSTOM:PaleVine",
+      "CUSTOM:PaleVineBottom"
+    ],
+    "ITEMS:minecraft:planks": [
+      "CUSTOM:PalePlanks"
+    ],
+    "BLOCKS:mod:heart_blocks": [
+      "CUSTOM:PaleLogs"
+    ]
+  },
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "block.the_creaked.pale_sapling": "Pale Sapling",
+      "block.the_creaked.pale_trapdoor": "Pale Trapdoor",
+      "block.pale_forest.pale_dirt": "Pale Dirt",
+      "block.the_creaked.pale_pressure_plate": "Pale Pressure Plate",
+      "block.pale_forest.pale_trapdoor": "Pale Trapdoor",
+      "item.pale_forest.creaking_spawn_egg": "Creaking Spawn Egg",
+      "block.the_creaked.pale_logs": "Pale Logs",
+      "block.pale_forest.pale_pressure_plate": "Pale Pressure Plate",
+      "block.the_creaked.pale_grass_crop": "Pale Grass",
+      "block.the_creaked.pale_door": "Pale Door",
+      "block.the_creaked.pale_grass": "Pale Grass Block",
+      "block.pale_forest.pale_vine": "Pale Vine",
+      "block.pale_forest.pale_slabs": "Pale Slabs",
+      "block.pale_forest.pale_grass_crop": "Pale Grass",
+      "biome.the_creaked.pale_garden": "Pale Garden",
+      "block.the_creaked.pale_vine_bottom": "Pale Vine Bottom",
+      "block.pale_forest.pale_moss_block": "Pale Moss Block",
+      "item.the_creaked.creaking_spawn_egg": "Creaking Spawn Egg",
+      "block.the_creaked.pale_moss_carpet": "Pale Moss Carpet",
+      "block.the_creaked.pale_moss_block": "Pale Moss Block",
+      "block.pale_forest.pale_grass": "Pale Grass Block",
+      "block.pale_forest.pale_vine_bottom": "Pale Vine Bottom",
+      "block.the_creaked.pale_fence_gate": "Pale Fence Gate",
+      "block.the_creaked.pale_sand": "Pale Sand",
+      "block.pale_forest.creaking_heart": "Creaking Heart",
+      "block.the_creaked.pale_dirt": "Pale Dirt",
+      "entity.pale_forest.creaking": "Creaking",
+      "block.the_creaked.pale_slabs": "Pale Slabs",
+      "block.the_creaked.creaking_heart": "Creaking Heart",
+      "block.the_creaked.creaking_heart_active": "Creaking Heart",
+      "block.pale_forest.pale_fence_gate": "Pale Fence Gate",
+      "block.the_creaked.pale_planks": "Pale Planks",
+      "block.pale_forest.pale_fence": "Pale Fence",
+      "block.pale_forest.pale_logs": "Pale Logs",
+      "block.pale_forest.pale_door": "Pale Door",
+      "block.pale_forest.pale_moss_carpet": "Pale Moss Carpet",
+      "gamerule.creakingEnderman.description": "Makes the Creaked teleport you upon being hit",
+      "biome.pale_forest.pale_garden": "Pale Garden",
+      "entity.the_creaked.creaking": "Creaking",
+      "block.the_creaked.pale_vine": "Pale Vine",
+      "block.pale_forest.pale_button": "Pale Button",
+      "block.pale_forest.pale_sapling": "Pale Sapling",
+      "block.pale_forest.pale_leaves": "Pale Leaves",
+      "block.the_creaked.pale_button": "Pale Button",
+      "block.the_creaked.pale_stairs": "Pale Stairs",
+      "block.pale_forest.pale_planks": "Pale Planks",
+      "block.the_creaked.pale_fence": "Pale Fence",
+      "block.the_creaked.pale_leaves": "Pale Leaves",
+      "block.pale_forest.pale_stairs": "Pale Stairs",
+      "gamerule.creakingEnderman": "Creak Teleportation",
+      "block.pale_forest.creaking_heart_active": "Creaking Heart",
+      "block.pale_forest.pale_sand": "Pale Sand"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "pale_forest",
+    "modName": "The Pale Forest and Creaked",
+    "version": "1.0.0",
+    "author": "Mackery",
+    "websiteURL": "https://mcreator.net",
+    "license": "All Rights Reserved",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "credits": "Mackery Mackery Mackery",
+    "modElementsPackage": "net.mackery.paleforest"
+  },
+  "mcreatorVersion": 202400232117
+}

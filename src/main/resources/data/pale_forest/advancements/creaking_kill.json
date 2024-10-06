@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "pale_forest:pale_sapling"
+    },
+    "title": {
+      "translate": "advancements.creaking_kill.title"
+    },
+    "description": {
+      "translate": "advancements.creaking_kill.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "creaking_kill_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "pale_forest:encounter_creaking"
+}

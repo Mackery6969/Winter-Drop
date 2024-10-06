@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "pale_forest:creaking_heart"
+    },
+    "title": {
+      "translate": "advancements.creaking_heart_get.title"
+    },
+    "description": {
+      "translate": "advancements.creaking_heart_get.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "creaking_heart_get_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "pale_forest:creaking_heart"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "pale_forest:encounter_creaking"
+}

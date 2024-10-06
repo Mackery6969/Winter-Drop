@@ -1,0 +1,12 @@
+{
+  "_fv": 66,
+  "_type": "gamerule",
+  "definition": {
+    "type": "Logic",
+    "displayName": "Creaking Killing All Mobs Experiment",
+    "description": "(EXPERIMENT IS JUST SOMETHING TO PLAY WITH thats broken rn) The Creaking will attack EVERYTHING",
+    "category": "MOBS",
+    "defaultValueLogic": false,
+    "defaultValueNumber": 0
+  }
+}

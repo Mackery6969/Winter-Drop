@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "pale_forest:pale_garden",
+  "features": "pale_forest:creaking_heart_active",
+  "step": "underground_ores"
+}

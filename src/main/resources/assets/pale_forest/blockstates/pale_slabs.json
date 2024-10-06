@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "pale_forest:block/pale_slabs"
+    },
+    "type=top": {
+      "model": "pale_forest:block/pale_slabs_top"
+    },
+    "type=double": {
+      "model": "pale_forest:block/pale_slabs_full"
+    }
+  }
+}

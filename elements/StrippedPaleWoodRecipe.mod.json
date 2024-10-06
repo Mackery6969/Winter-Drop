@@ -1,0 +1,48 @@
+{
+  "_fv": 66,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 3,
+    "group": "stripped_wood",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "BUILDING",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:StrippedPaleLogs"
+      },
+      {
+        "value": "CUSTOM:StrippedPaleLogs"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:StrippedPaleLogs"
+      },
+      {
+        "value": "CUSTOM:StrippedPaleLogs"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:StrippedPaleWood"
+    },
+    "name": "stripped_pale_wood",
+    "namespace": "mod"
+  }
+}

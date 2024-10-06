@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "pale_forest:block/oak_leaves",
+    "up": "pale_forest:block/oak_leaves",
+    "north": "pale_forest:block/oak_leaves",
+    "east": "pale_forest:block/oak_leaves",
+    "south": "pale_forest:block/oak_leaves",
+    "west": "pale_forest:block/oak_leaves",
+    "particle": "pale_forest:block/oak_leaves"
+  },
+  "render_type": "translucent"
+}

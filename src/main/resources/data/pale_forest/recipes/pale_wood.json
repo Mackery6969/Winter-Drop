@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wood",
+  "category": "building",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "pale_forest:pale_logs"
+    }
+  },
+  "result": {
+    "item": "pale_forest:pale_wood",
+    "count": 3
+  }
+}

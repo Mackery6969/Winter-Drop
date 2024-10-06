@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_trapdoors",
+  "category": "redstone",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "pale_forest:pale_planks"
+    }
+  },
+  "result": {
+    "item": "pale_forest:pale_trapdoor",
+    "count": 2
+  }
+}

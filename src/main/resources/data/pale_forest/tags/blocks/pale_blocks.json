@@ -1,0 +1,30 @@
+{
+  "replace": false,
+  "values": [
+    "pale_forest:pale_logs",
+    "pale_forest:pale_dirt",
+    "pale_forest:pale_planks",
+    "pale_forest:pale_grass",
+    "pale_forest:pale_fence",
+    "pale_forest:creaking_heart",
+    "pale_forest:pale_sapling",
+    "pale_forest:creaking_heart_active",
+    "pale_forest:pale_stairs",
+    "pale_forest:pale_fence_gate",
+    "pale_forest:pale_slabs",
+    "pale_forest:pale_button",
+    "pale_forest:pale_pressure_plate",
+    "pale_forest:pale_moss_block",
+    "pale_forest:pale_trapdoor",
+    "pale_forest:pale_leaves",
+    "pale_forest:pale_vine",
+    "pale_forest:pale_vine_bottom",
+    "pale_forest:pale_door",
+    "pale_forest:stripped_pale_wood",
+    "pale_forest:pale_wood",
+    "pale_forest:stripped_pale_logs",
+    "pale_forest:pale_coarse_dirt",
+    "pale_forest:pale_sand",
+    "pale_forest:pale_sandstone"
+  ]
+}

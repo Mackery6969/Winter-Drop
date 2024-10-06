@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "sandstone",
+  "category": "building",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "pale_forest:pale_sand"
+    }
+  },
+  "result": {
+    "item": "pale_forest:pale_sandstone",
+    "count": 1
+  }
+}

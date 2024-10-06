@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "pale_forest:block/creaking_heart_top_inactive",
+    "up": "pale_forest:block/creaking_heart_top_inactive",
+    "north": "pale_forest:block/creaking_heart_side_inactive",
+    "east": "pale_forest:block/creaking_heart_side_inactive",
+    "south": "pale_forest:block/creaking_heart_side_inactive",
+    "west": "pale_forest:block/creaking_heart_side_inactive",
+    "particle": "pale_forest:block/creaking_heart_top_inactive"
+  },
+  "render_type": "solid"
+}

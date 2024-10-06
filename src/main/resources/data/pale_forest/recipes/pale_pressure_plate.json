@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_pressure_plate",
+  "category": "redstone",
+  "pattern": [
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "pale_forest:pale_planks"
+    }
+  },
+  "result": {
+    "item": "pale_forest:pale_pressure_plate",
+    "count": 1
+  }
+}

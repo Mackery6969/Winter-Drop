@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "pale_forest:pale_logs",
+    "pale_forest:pale_dirt",
+    "pale_forest:pale_planks",
+    "pale_forest:pale_grass",
+    "pale_forest:pale_fence"
+  ]
+}

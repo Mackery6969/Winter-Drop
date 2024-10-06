@@ -1,0 +1,63 @@
+{
+  "has_precipitation": false,
+  "temperature": 0.25,
+  "downfall": 0,
+  "effects": {
+    "foliage_color": -7763064,
+    "grass_color": -7763064,
+    "sky_color": -7763064,
+    "fog_color": -7763064,
+    "water_color": -7763064,
+    "water_fog_color": -7763064
+  },
+  "spawners": {
+    "monster": [
+      {
+        "type": "zombie",
+        "weight": 5,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "type": "creeper",
+        "weight": 5,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "type": "spider",
+        "weight": 5,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "type": "skeleton",
+        "weight": 4,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ],
+    "creature": [],
+    "ambient": [],
+    "axolotls": [],
+    "underground_water_creature": [],
+    "water_creature": [],
+    "water_ambient": [],
+    "misc": []
+  },
+  "spawn_costs": {},
+  "carvers": {},
+  "features": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ]
+}

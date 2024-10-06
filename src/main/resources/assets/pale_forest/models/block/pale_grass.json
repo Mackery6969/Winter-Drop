@@ -1,0 +1,11 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "pale_forest:block/dirt",
+    "top": "pale_forest:block/grass_block_top",
+    "side": "pale_forest:block/grass_block_side",
+    "overlay": "pale_forest:block/grass_block_side_overlay",
+    "particle": "pale_forest:block/dirt"
+  },
+  "render_type": "cutout_mipped"
+}
