@@ -6,7 +6,7 @@
     "displayName": "Spreading Pale Gardens",
     "description": "(W.I.P.) each tick theres a 1 in 10 chance a pale block will spread to a non pale block",
     "category": "MISC",
-    "defaultValueLogic": false,
+    "defaultValueLogic": true,
     "defaultValueNumber": 0
   }
 }
